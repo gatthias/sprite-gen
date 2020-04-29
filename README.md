@@ -26,4 +26,4 @@ Base implementation in C++ can be found at [@yurkth/sprator](https://github.com/
 
 ## License
 
-Sprator is licensed under the MIT license. See the [LICENSE](/LICENSE) for more information.
+This project is licensed under the MIT license. See the [LICENSE](/LICENSE) for more information.
