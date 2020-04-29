@@ -1,7 +1,7 @@
 # Sprite Generator
 
-A small experiment with Sprite generation using cellular automata in the browser.
-Base implementation in C++ found at [@yurkth/sprator](https://github.com/yurkth/sprator).
+A small experiment with Sprite generation using cellular automata in the browser.  
+Base implementation in C++ can be found at [@yurkth/sprator](https://github.com/yurkth/sprator).
 
 
 ## Theory
@@ -23,3 +23,7 @@ Base implementation in C++ found at [@yurkth/sprator](https://github.com/yurkth/
 4. Flip and add a outline, complete!
 
    ![](https://user-images.githubusercontent.com/59264002/76070456-e56db100-5fd7-11ea-9fed-4c178bf0a756.png)
+
+## License
+
+Sprator is licensed under the MIT license. See the [LICENSE](/LICENSE) for more information.
